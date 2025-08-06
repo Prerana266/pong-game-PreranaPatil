@@ -38,6 +38,8 @@ Relive the nostalgia of a retro classic! This project is a straightforward yet e
 6.  **Play Again:**
     - After a game concludes, click "Play Again" on the game over screen to start a new match.
 
+    THIS GAME WILL BE SO MUCH FUN.ALL THE CONTRIBUTIONS ARE WELCOME FOR IMPROVING THIS GAME.LETS WORK TOGETHER..
+
 ## 🚀 Live Demo
 
 Ready to play? Click the link below to launch the game directly in your browser:
